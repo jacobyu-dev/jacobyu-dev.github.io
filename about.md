@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile.png "Profile Picture"){:.profile}
 
 Hello. This is Jacob's Tech Blog, which is made for my personal history. I'm Jacob Yu who is really interested with learning something and I has been living in Seoul(KR) for my life.
 
