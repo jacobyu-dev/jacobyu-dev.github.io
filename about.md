@@ -9,5 +9,5 @@ main_nav: true
 
 Hello. This is Jacob's Tech Blog, which is made for my personal history. I'm Jacob Yu who is really interested with learning something and I has been living in Seoul(KR) for my life.
 
-This Blog will be uploaded something i'm interested with. Nowadays, I'm really interested with AI, especially Autonomous Vehicle. So I will share you my personal projects and sources. 
+Many Contents I'm interested with will be uploaded at this Blog. Nowadays, I'm really interested with AI, especially Autonomous Vehicle. So I will share you my personal projects and sources. 
 
