@@ -18,7 +18,9 @@ cover:  "/assets/ai.png"
 ![alt text](/assets/AI_Desk_Lamp/1_intro.png)
 
 
-<a href="assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">Image #2</a>
+<a href="assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/1_intro.png" title="test_lightbox">
+</a>
 <a href="images/image-3.jpg" data-lightbox="roadtrip">Image #3</a>
 <a href="images/image-4.jpg" data-lightbox="roadtrip">Image #4</a>
 #### 
