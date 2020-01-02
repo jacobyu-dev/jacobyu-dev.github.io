@@ -13,7 +13,7 @@ cover:  "/assets/ai.png"
 
 
 #### Introduction
-![alt text]({{ site.baseurl }}/assets/AI_Desk_Lamp/1_intro.png "intro Picture")
+![alt text]({{ site.baseurl }}/assets/AI_Desk_Lamp/1_intro.png)
 
 #### 
 
