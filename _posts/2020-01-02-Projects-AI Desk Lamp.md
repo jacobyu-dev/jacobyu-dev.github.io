@@ -12,7 +12,7 @@ cover:  "/assets/ai.png"
 <span style="color:red">**Sorry, Source will not be opened by vow with POSCO**</span>
 
 
-#### Introduction
+### Introduction
 ###### This Projects was produced while I participated  'POSCO AI * BigData Academy' in Korea. 'AI Desk Lamp' is actually combined <u>AI Speaker</u> with <u>DeskLamp</u>. My teammates and I refered to <b>'Eunsol Lee. The Effect of Hue of Lighting on Affective and Cognitive Response Focused on Relaxation and Attention, KAIST'</b> research. We realized that lighting affect situations such as studying, working and so on. Thus, we deciede to produce this project to enhance efficiency when we study, work and take a rest. The Goal is outputing best colors for each situations.
 
 
