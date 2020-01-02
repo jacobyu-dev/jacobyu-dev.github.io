@@ -13,8 +13,14 @@ cover:  "/assets/ai.png"
 
 
 #### Introduction
-![alt text]({{ site.baseurl }}/assets/AI_Desk_Lamp/1_intro.png)
 
+
+![alt text](/assets/AI_Desk_Lamp/1_intro.png)
+
+
+<a href="assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">Image #2</a>
+<a href="images/image-3.jpg" data-lightbox="roadtrip">Image #3</a>
+<a href="images/image-4.jpg" data-lightbox="roadtrip">Image #4</a>
 #### 
 
 #### Demonstration Video 
