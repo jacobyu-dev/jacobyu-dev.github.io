@@ -13,7 +13,7 @@ cover:  "/assets/ai.png"
 
 
 #### Introduction
-![image](./assets/AI Desk Lamp/1.intro.png)
+![1.intro](./assets/AI Desk Lamp/1.intro.png)
 #### 
 
 #### Demonstration Video 
