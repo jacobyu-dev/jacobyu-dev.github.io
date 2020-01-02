@@ -13,7 +13,7 @@ cover:  "/assets/ai.png"
 
 
 ### Introduction
-#### This Projects was produced while I participated  'POSCO AI * BigData Academy' in Korea. 'AI Desk Lamp' is actually combined <u>AI Speaker</u> with <u>DeskLamp</u>. My teammates and I refered to '<big><i>Eunsol Lee. The Effect of Hue of Lighting on Affective and Cognitive Response Focused on Relaxation and Attention, KAIST</i></big>' research. We realized that lighting affect situations such as studying, working and so on. Thus, we deciede to produce this project to enhance efficiency when we study, work and take a rest. The Goal is outputing best colors for each situations.
+#### This Projects was produced while I participated  'POSCO AI * BigData Academy' in Korea. 'AI Desk Lamp' is actually combined <u>AI Speaker</u> with <u>DeskLamp</u>. My teammates and I refered to '<big><b><i>Eunsol Lee. The Effect of Hue of Lighting on Affective and Cognitive Response Focused on Relaxation and Attention, KAIST</i></b></big>' research. We realized that lighting affect situations such as studying, working and so on. Thus, we deciede to produce this project to enhance efficiency when we study, work and take a rest. The Goal is outputing best colors for each situations.
 
 
 <a href="/assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">
