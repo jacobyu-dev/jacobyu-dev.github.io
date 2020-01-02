@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Desk Lamp"
-date:   2015-04-18T14:25:52-05:00
+date:   2020-01-02T14:25:52-05:00
 author: Jacob Yu
 categories: Projects
 tags:	
@@ -13,7 +13,7 @@ cover:  "/assets/ai.png"
 
 
 #### Introduction
-
+![image](./assets/AI Desk Lamp/1.intro.png)
 #### 
 
 #### Demonstration Video 
