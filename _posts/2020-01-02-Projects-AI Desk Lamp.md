@@ -21,9 +21,9 @@ cover:  "/assets/ai.png"
 　
 　
 #### Tools & Parts
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, OpenCV, YOLO, KT GIGA Genie Kit(Raspberry pi, Speaker), Webcam, LED Strip
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, OpenCV, YOLO, KT GIGA Genie Kit(Raspberry pi, Speaker), Webcam, LED Strip
 
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware
 <a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
 </a>
