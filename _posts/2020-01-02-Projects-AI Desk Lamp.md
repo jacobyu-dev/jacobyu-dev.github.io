@@ -21,7 +21,7 @@ cover:  "/assets/ai.png"
 　
 　
 #### Tools & Parts
-##### 　　　 : Python, OpenCV, YOLO, KT GIGA Genie Kit(Raspberry pi, Speaker), Webcam, LED Strip
+##### 　　　 : Python, OpenCV, YOLO, KT GIGA Genie Makers Kit(Raspberry pi, Speaker), Webcam, LED Strip
 
 #### 　　Hardware
 <a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
@@ -37,11 +37,17 @@ cover:  "/assets/ai.png"
 	<img src="/assets/AI_Desk_Lamp/1_intro.png" title="test_lightbox">
 </a>
 ① Recognize Action images and Voice Data from User
+
 　:  
+ 
 ② Transmit Data to Server
+
 　:
+
 ③ Object Detection and Classify into pre-trained class Using YOLO Image Detector
+
 　:
+ 
 ④ Output best light color
 
 
