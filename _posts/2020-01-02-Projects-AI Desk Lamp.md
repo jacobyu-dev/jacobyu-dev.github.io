@@ -17,6 +17,19 @@ cover:  "/assets/ai.png"
 
 
 
+
+　
+　
+#### Tools & Parts
+#####　: Python, OpenCV, YOLO, KT GIGA Genie Kit(Raspberry pi, Speaker), Webcam, LED Strip
+
+#####　Hardware
+<a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
+</a>
+<span style="color:red">Webcam was used instead of PI Camera.</span>
+
+
 　
 　
 ### Process
@@ -31,15 +44,6 @@ cover:  "/assets/ai.png"
 　:
 ④ Output best light color
 
-
-
-
-　
-　
-#### Hardware
-<a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
-	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
-</a>
 
 
 
