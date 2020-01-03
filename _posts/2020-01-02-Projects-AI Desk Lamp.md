@@ -36,15 +36,15 @@ cover:  "/assets/ai.png"
 <a href="/assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/1_intro.png" title="test_lightbox">
 </a>
-① Recognize Action images and Voice Data from User
+① Recognize Action images and Voice Data
 
-　:  
+　:  웹캠과 스피커를 통해 이미지데이터와 소리데이터를 수집 한다. 
  
-② Transmit Data to Server
+② Transmit Data to Server (In this case, Server is Raspberry PI)
 
 　:
 
-③ Object Detection and Classify into pre-trained class Using YOLO Image Detector
+③ Object Detection and Classification into pre-trained class Using YOLO Image Detector
 
 　:
  
