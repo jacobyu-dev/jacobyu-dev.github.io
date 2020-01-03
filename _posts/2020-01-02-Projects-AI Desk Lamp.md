@@ -87,10 +87,17 @@ We collected a total of 6,000 image files, 2,000 each for each class, through a 
 
 　
 　
-### Image Data Learning using YOLO
+### YOLO setting & Classification
 <a href="/assets/AI_Desk_Lamp/6_yolo.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/6_yolo.png" title="test_lightbox">
 </a>
+These are YOLO setting files & classification example. 
+　① : In obj.data file, we set values(numbers of value, trian/valid set, labelname (obj.names) )
+　② : obj.names file means label name and  label indice are 0 to 3 along the line.
+ 　　　(pen is for concentration mode, keyboard&mouse are for computer mode and book is for rest mode)
+　③,④ : pen0.txt and mouse0.txt are examples of classification. First one is Number of class, from second one to last are probabilities 　　　　for each class made by Softmax.
+
+
 
 
 
@@ -101,6 +108,18 @@ We collected a total of 6,000 image files, 2,000 each for each class, through a 
 <a href="/assets/AI_Desk_Lamp/4_result.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/4_result.png" title="test_lightbox">
 </a>
+
+
+
+
+
+
+　
+　
+### Voice Recognition
+
+
+
 
 
 
