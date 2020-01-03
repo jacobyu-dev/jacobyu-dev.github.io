@@ -43,7 +43,7 @@ cover:  "/assets/ai.png"
 ##### 　　　1. Receiving image and voice data at Webcam and Speaker
 ##### 　　　2. Transmit data to Server PC
 ##### 　　　3. Image&Voice Processing in Server PC, then tranmit LED Control signal to Raspberry PI
-##### 　　　4. Control LED's Color and Brightness
+##### 　　　4. Control LED's Color and 　ightness
 
 　
 　
@@ -64,9 +64,9 @@ cover:  "/assets/ai.png"
 </a>
 We assumed 3 kinds of mode (Concentration, Computer, Resting) and decided best colors for each situation following above paper. Each mode's color is set on the above table. And we also assumed each situation like below.
 
-###### - Concentration Mode : When use pen, especially studying
-###### - Computer Mode : When use Laptop
-###### - Rest Mode : When read a book
+##### 　- Concentration Mode : When use pen, especially studying
+##### 　- Computer Mode : When use Laptop
+##### 　- Rest Mode : When read a book
 <span style="color:red">**Every mode is just assumption !!**</span>
 
 
@@ -93,8 +93,11 @@ We collected a total of 6,000 image files, 2,000 each for each class, through a 
 </a>
 These are YOLO setting files & classification example. 
 　① : In obj.data file, we set values(numbers of value, trian/valid set, labelname (obj.names) )
+ 
 　② : obj.names file means label name and  label indice are 0 to 3 along the line.
+ 
  　　　(pen is for concentration mode, keyboard&mouse are for computer mode and book is for rest mode)
+    
 　③,④ : pen0.txt and mouse0.txt are examples of classification. First one is Number of class, from second one to last are probabilities 　　　　for each class made by Softmax.
 
 
