@@ -21,11 +21,11 @@ cover:  "/assets/ai.png"
 　
 　
 ### How it works?
-#### 　　1. Power on
-#### 　　2. Say "Turn on the Light" in Korean
-#### 　　3. Say which mode do youuse e.g. Auto/Manual
-##### 　　　　- Auto : power on/off using voice and auto light control mode
-##### 　　　　- Manual : just power on/off
+#### 1. Power on
+#### 2. Say "Turn on the Light" in Korean
+#### 3. Say which mode do youuse e.g. Auto/Manual
+##### 　- Auto : power on/off using voice and auto light control mode
+##### 　- Manual : just power on/off
 
 
 
