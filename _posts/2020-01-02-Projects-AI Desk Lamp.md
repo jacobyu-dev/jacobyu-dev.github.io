@@ -31,6 +31,7 @@ cover:  "/assets/ai.png"
 
 　
 　
+　
 #### Tools & Parts
 ##### 　　　 : Python, OpenCV, YOLO, KT GIGA Genie Makers Kit(Raspberry pi, Speaker), Webcam, LED Strip
 
@@ -51,6 +52,16 @@ cover:  "/assets/ai.png"
 	<img src="/assets/AI_Desk_Lamp/1_intro.png" title="test_lightbox">
 </a>
 
+
+
+
+
+　
+　
+### Definition of each Mode's Color
+<a href="/assets/AI_Desk_Lamp/5_mode.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/5_mode.png" title="test_lightbox">
+</a>
 
 
 
