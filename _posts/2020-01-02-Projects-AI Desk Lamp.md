@@ -27,7 +27,7 @@ cover:  "/assets/ai.png"
 <a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
 </a>
-<span style="color:red">Webcam was used instead of PI Camera.</span>
+<span style="color:red">　　　　Webcam was used instead of PI Camera!</span>
 
 
 　
