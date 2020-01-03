@@ -62,18 +62,36 @@ cover:  "/assets/ai.png"
 <a href="/assets/AI_Desk_Lamp/5_mode.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/5_mode.png" title="test_lightbox">
 </a>
-We assumed 3 kinds of mode (Concentration, Computer, Resting) and decided best colors for each situation following above paper. Each mode' Color are set on the above table. And we also assumed each situation like below.
+We assumed 3 kinds of mode (Concentration, Computer, Resting) and decided best colors for each situation following above paper. Each mode's color is set on the above table. And we also assumed each situation like below.
 
 ###### - Concentration Mode : When use pen, especially studying
 ###### - Computer Mode : When use Laptop
 ###### - Rest Mode : When read a book
 <span style="color:red">**Every mode is just assumption !!**</span>
+
+
+
+
+
 　
 　
 ### Image Data colletion and pre-processing for Learning
 <a href="/assets/AI_Desk_Lamp/3_imagedata.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/3_imagedata.png" title="test_lightbox">
 </a>
+We collected a total of 6,000 image files, 2,000 each for each class, through a webcam. And our team started labeling hands at every images using 'labelImg' program.
+
+
+
+
+
+　
+　
+### Image Data Learning using YOLO
+<a href="/assets/AI_Desk_Lamp/6_yolo.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/6_yolo.png" title="test_lightbox">
+</a>
+
 
 
 
