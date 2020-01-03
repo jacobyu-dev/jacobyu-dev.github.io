@@ -20,6 +20,17 @@ cover:  "/assets/ai.png"
 
 　
 　
+### How it works?
+####　　1. Power on
+####　　2. Say "Turn on the Light" in Korean
+####　　3. Say which mode do youuse e.g. Auto/Manual
+#####　　　　- Auto : power on/off using voice and auto light control mode
+#####　　　　- Manual : just power on/off
+
+
+
+　
+　
 #### Tools & Parts
 ##### 　　　 : Python, OpenCV, YOLO, KT GIGA Genie Makers Kit(Raspberry pi, Speaker), Webcam, LED Strip
 
@@ -36,19 +47,7 @@ cover:  "/assets/ai.png"
 <a href="/assets/AI_Desk_Lamp/1_intro.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/1_intro.png" title="test_lightbox">
 </a>
-① Recognize Action images and Voice Data
 
-　:  웹캠과 스피커를 통해 이미지데이터와 소리데이터를 수집 한다. 
- 
-② Transmit Data to Server (In this case, Server is Raspberry PI)
-
-　:
-
-③ Object Detection and Classification into pre-trained class Using YOLO Image Detector
-
-　:
- 
-④ Output best light color
 
 
 
@@ -56,8 +55,8 @@ cover:  "/assets/ai.png"
 　
 　
 #### Image Data colletion and pre-processing for Learning
-<a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
-	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
+<a href="/assets/AI_Desk_Lamp/3_imagedata.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/3_imagedata.png" title="test_lightbox">
 </a>
 
 
@@ -65,8 +64,8 @@ cover:  "/assets/ai.png"
 　
 　
 #### Result of Image Recognition and Classification
-<a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
-	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
+<a href="/assets/AI_Desk_Lamp/4_result.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/4_result.png" title="test_lightbox">
 </a>
 
 
