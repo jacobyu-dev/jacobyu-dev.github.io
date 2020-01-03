@@ -39,10 +39,10 @@ cover:  "/assets/ai.png"
 	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
 </a>
 <span style="color:red">　　　　Webcam was used instead of PI Camera!</span>
-##### 　1. Receiving image and voice data at Webcam and Speaker
-##### 　2. Transmit data to Server PC
-##### 　3. Image&Voice Processing in Server PC, then tranmit LED Control signal to Raspberry PI
-##### 　4. Control LED's Color and Brightness
+##### 　　　1. Receiving image and voice data at Webcam and Speaker
+##### 　　　2. Transmit data to Server PC
+##### 　　　3. Image&Voice Processing in Server PC, then tranmit LED Control signal to Raspberry PI
+##### 　　　4. Control LED's Color and Brightness
 
 　
 　
