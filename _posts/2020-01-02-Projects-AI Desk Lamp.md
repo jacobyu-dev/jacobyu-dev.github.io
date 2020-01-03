@@ -23,7 +23,7 @@ cover:  "/assets/ai.png"
 ### How it works?
 #### 　1. Power on
 #### 　2. Say "Turn on the Light" in Korean
-#### 　3. Say which mode do youuse e.g. Auto/Manual
+#### 　3. Say which mode do you use  e.g. Auto/Manual
 ##### 　　- Auto : power on/off using voice and auto light control mode
 ##### 　　- Manual : just power on/off
 
@@ -34,12 +34,15 @@ cover:  "/assets/ai.png"
 #### Tools & Parts
 ##### 　　　 : Python, OpenCV, YOLO, KT GIGA Genie Makers Kit(Raspberry pi, Speaker), Webcam, LED Strip
 
-#### 　　Hardware
+#### Hardware
 <a href="/assets/AI_Desk_Lamp/2_hardware.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/2_hardware.png" title="test_lightbox">
 </a>
 <span style="color:red">　　　　Webcam was used instead of PI Camera!</span>
-
+#### 　1. Receiving image and voice data at Webcam and Speaker
+#### 　2. Transmit data to Server PC
+#### 　3. Image&Voice Processing in Server PC, then tranmit LED Control signal to Raspberry PI
+#### 　4. Control LED's Color and Brightness
 
 　
 　
@@ -54,7 +57,7 @@ cover:  "/assets/ai.png"
 
 　
 　
-#### Image Data colletion and pre-processing for Learning
+### Image Data colletion and pre-processing for Learning
 <a href="/assets/AI_Desk_Lamp/3_imagedata.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/3_imagedata.png" title="test_lightbox">
 </a>
@@ -63,7 +66,7 @@ cover:  "/assets/ai.png"
 
 　
 　
-#### Result of Image Recognition and Classification
+### Result of Image Recognition and Classification
 <a href="/assets/AI_Desk_Lamp/4_result.png" data-lightbox="roadtrip">
 	<img src="/assets/AI_Desk_Lamp/4_result.png" title="test_lightbox">
 </a>
@@ -72,4 +75,4 @@ cover:  "/assets/ai.png"
 
 　
 　
-#### Demonstration Video 
+### Demonstration Video 
