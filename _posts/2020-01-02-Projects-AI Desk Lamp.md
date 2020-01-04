@@ -125,4 +125,4 @@ These are YOLO setting files & classification example.
 　
 　
 ### Demonstration Video
-{% ai_desklamp_testvideo.html id="https://youtu.be/oyYyc0GylZo" %}
+{% ai_desklamp_testvideo.html id="oyYyc0GylZo" %}
