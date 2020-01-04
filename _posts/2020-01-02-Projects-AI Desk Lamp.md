@@ -116,8 +116,13 @@ These are YOLO setting files & classification example.
 　
 　
 ### Voice Recognition
+KT GIGA Genie is used in this project. We refered to this website for implementation ([KT API Link][KTapi]). Voice Recognition is implemented by ex.getVoice2Text.py file ([Example codes][exCode]). This code make it possible for Raspberry pi to recognize voice. However, we needed to modify it any way we wanted. Hence, we made a new function using ex.getVoice2.Text. <scan style="color:red">I'm really sorry but that function is not opened by vow with POSCO.</scan>
+<a href="/assets/AI_Desk_Lamp/7_voice.png" data-lightbox="roadtrip">
+	<img src="/assets/AI_Desk_Lamp/7_voice.png" title="test_lightbox">
+</a>
 
-
+[exCode]:     https://github.com/gigagenie/ai-makers-kit/tree/master/python3
+[KTapi]:      https://apilink.kt.co.kr/api/menu/apiSpcDetail.do?apiSpcId=183
 
 
 
