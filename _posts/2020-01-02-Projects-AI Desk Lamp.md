@@ -125,4 +125,4 @@ These are YOLO setting files & classification example.
 　
 　
 ### Demonstration Video
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/oyYyc0GylZo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyYyc0GylZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
