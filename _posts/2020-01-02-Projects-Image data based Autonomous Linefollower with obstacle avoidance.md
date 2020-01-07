@@ -39,7 +39,7 @@ Main Hardware is Turtlebot3 ([Turtlebot3_e-manual])and Model name is Waffle PI. 
 <a href="/assets/Auto_Vehicle/1_hw_setup.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/1_hw_setup.png" title="test_lightbox">
 </a>
-Master PC's Operating System is ++Linux Ubuntu 16.04 Xenial++ and Turtlebot's OS is ++Rasbian++. The same Wi-Fi band was used for communication. All setup manual is up on [here][Turtlebot3_e-manual].
+Master PC's Operating System is ++ Linux Ubuntu 16.04 Xenial ++ and Turtlebot's OS is ++ Rasbian ++. The same Wi-Fi band was used for communication. All setup manual is up on [here][Turtlebot3_e-manual].
 
 [Turtlebot3_e-manual]: http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 　
