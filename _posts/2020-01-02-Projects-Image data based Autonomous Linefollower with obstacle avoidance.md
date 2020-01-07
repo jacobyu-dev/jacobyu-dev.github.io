@@ -33,10 +33,8 @@ The project was conducted by participating in the SBA-sponsored(Seoul Business A
 ### Configuration
 
 #### 　Hardware
-
-　　Main Hardware is Turtlebot3 ([Turtlebot3_e-manual])and Model name is Waffle PI. Inside the turtlebot, a sensor control board called OpenCR and Raspberry pi built in. In addition, LIDAR sensors and camera parts are included for autonomous driving, and additional sensors can be attached separately. As necessary functions such as self-driving and SLAM are opened, Turtlebot was selected as the main hardware.
-
-
+Main Hardware is Turtlebot3 ([Turtlebot3_e-manual])and Model name is Waffle PI. Inside the turtlebot, a sensor control board called OpenCR and Raspberry pi built in. In addition, LIDAR sensors and camera parts are included for autonomous driving, and additional sensors can be attached separately. As necessary functions such as self-driving and SLAM are opened, Turtlebot was selected as the main hardware.
+　
 #### 　Master PC & Turtlebot Setting
 <a href="/assets/Auto_Vehicle/1_hw_setup.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/1_hw_setup.png" title="test_lightbox">
@@ -55,11 +53,9 @@ Master PC's Operating System is ++Linux Ubuntu 16.04 Xenial++ and Turtlebot's OS
 #### 　1. Power on
 #### 　1. Power on
 <a href="/assets/Auto_Vehicle/1_hw_setup.png" data-lightbox="roadtrip">
-	<img src="/assets/Auto_Vehicle/2_tools.png" title="test_lightbox">
+	<img src="/assets/Auto_Vehicle/2_tools.png" title="test_lightbox"> <img src="/assets/Auto_Vehicle/2_tools.png" title="test_lightbox">
 </a>
-<a href="/assets/Auto_Vehicle/2_tools.png" data-lightbox="roadtrip">
-	<img src="/assets/Auto_Vehicle/2_tools.png" title="test_lightbox">
-</a>
+
 　
 　
 ### Demonstration Video
