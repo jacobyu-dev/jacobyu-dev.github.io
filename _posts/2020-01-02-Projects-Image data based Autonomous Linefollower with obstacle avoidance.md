@@ -39,7 +39,7 @@ Main Hardware is Turtlebot3 ([Turtlebot3_e-manual])and Model name is Waffle PI. 
 <a href="/assets/Auto_Vehicle/1_hw_setup.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/1_hw_setup.png" title="test_lightbox">
 </a>
-Master PC's Operating System is ++ Linux Ubuntu 16.04 Xenial ++ and Turtlebot's OS is ++ Rasbian ++. The same Wi-Fi band was used for communication. All setup manual is up on [here][Turtlebot3_e-manual].
+Master PC's Operating System is <u>Linux Ubuntu 16.04 Xenial</u> and Turtlebot's OS is <u>Rasbian</u>. The same Wi-Fi band was used for communication. All setup manual is up on [here][Turtlebot3_e-manual].
 
 [Turtlebot3_e-manual]: http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 　
@@ -55,10 +55,17 @@ Master PC's Operating System is ++ Linux Ubuntu 16.04 Xenial ++ and Turtlebot's 
 <a href="/assets/Auto_Vehicle/3_learning.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/3_learning.png" title="test_lightbox">
 </a>
+First of all, we needed image data for driving. So we tried collecting many image data through manual driving. Then, image data was learned by CNN model.
+###### 　① Enter Action Command for manual driving in DB and ROS(ROS control turtlebot's body).
+###### 　② At the same time, image data is also preprocessed(GrayScale and GaussianBlur) and stored in DB with action command values.
+###### 　③ Move the weight file from turtlebot to remote PC and proceed with learning process.
+
 #### 　2. Driving
 <a href="/assets/Auto_Vehicle/4_driving.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/4_driving.png" title="test_lightbox">
 </a>
+###### 　④
+#### 　3. Data Edit for Driving
 <a href="/assets/Auto_Vehicle/5_data_edit.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/5_data_edit.png" width="355" height="402" title="test_lightbox">
 </a>
