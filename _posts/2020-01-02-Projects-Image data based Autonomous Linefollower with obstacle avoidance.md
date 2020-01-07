@@ -60,7 +60,7 @@ Master PC's Operating System is ++Linux Ubuntu 16.04 Xenial++ and Turtlebot's OS
 	<img src="/assets/Auto_Vehicle/4_driving.png" title="test_lightbox">
 </a>
 <a href="/assets/Auto_Vehicle/5_data_edit.png" data-lightbox="roadtrip">
-	<img src="/assets/Auto_Vehicle/5_data_edit.png" title="test_lightbox">
+	<img src="/assets/Auto_Vehicle/5_data_edit.png" width="355" height="402" title="test_lightbox">
 </a>
 　
 　
