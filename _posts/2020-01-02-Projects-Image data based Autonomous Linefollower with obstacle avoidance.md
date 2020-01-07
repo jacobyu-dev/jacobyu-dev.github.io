@@ -87,4 +87,11 @@ Turtlebot uses LIDAR sensors to first stop. To implement additional better stop 
 <a href="/assets/Auto_Vehicle/7_avoid.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/7_avoid.png" title="test_lightbox">
 </a>
+① Stop, if LIDAR Sensor detects obstacle within some distance.
+② Rotate in place into obstacle-free direction.
+③ Avoid obstacle. When turtlebot rotate and avoid obstacle, it is keeping check how far from obstacle(whether within 15m).
+④ Back to line
+⑤ Drive again following line
+　
+　
 ### Demonstration Video
