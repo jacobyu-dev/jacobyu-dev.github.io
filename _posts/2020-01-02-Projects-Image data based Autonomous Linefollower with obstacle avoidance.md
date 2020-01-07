@@ -56,7 +56,7 @@ Master PC's Operating System is <u>Linux Ubuntu 16.04 Xenial</u> and Turtlebot's
 </a>
 First of all, we needed image data for driving. So we tried collecting image data enough through manual driving. Then, image data was learned by CNN model.
 ##### 　① Enter Action Command for manual driving in DB and ROS(ROS control turtlebot's body).
-##### 　② At the same time, image data is also preprocessed(GrayScale and GaussianBlur) and stored in DB with action 　　　command values.
+##### 　② At the same time, image data is also preprocessed(GrayScale and GaussianBlur) and stored in DB with action 　　command values.
 ##### 　③ Move the weight file from turtlebot to remote PC and proceed with learning process.
 ##### 　④ Move the learned weight file back to turtlebot.
 　
