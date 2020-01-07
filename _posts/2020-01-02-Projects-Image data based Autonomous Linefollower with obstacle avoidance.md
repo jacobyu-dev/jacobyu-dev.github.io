@@ -26,7 +26,7 @@ cover:  "/assets/ai.png"
 
 ### Introduction
 
-The project was conducted by participating in the SBA-sponsored(Seoul Business Agency) 'Deeplearning-Based Image Processing' training and commissioned by SUPEX BNP. This linefollower only runs on image data from PI camera and was implemented obstacle avoidance function.
+The project was conducted by participating in the SBA-sponsored(Seoul Business Agency) 'Deeplearning-Based Image Processing' training and commissioned by SUPEX BNP for factory transport robot . This linefollower only runs on image data from PI camera and was implemented obstacle avoidance function.
 
 　
 　
@@ -51,12 +51,17 @@ Master PC's Operating System is ++Linux Ubuntu 16.04 Xenial++ and Turtlebot's OS
 　
 　
 ### Driving Process
-#### 　1. Power on
-#### 　1. Power on
-<a href="/assets/Auto_Vehicle/1_hw_setup.png" data-lightbox="roadtrip">
+#### 　1. Learning for Driving
+<a href="/assets/Auto_Vehicle/3_learning.png" data-lightbox="roadtrip">
+	<img src="/assets/Auto_Vehicle/3_learning.png" title="test_lightbox">
 </a>
-<img src="/assets/Auto_Vehicle/1_hw_setup.png" title="test_lightbox">
-
+#### 　2. Driving
+<a href="/assets/Auto_Vehicle/4_driving.png" data-lightbox="roadtrip">
+	<img src="/assets/Auto_Vehicle/4_driving.png" title="test_lightbox">
+</a>
+<a href="/assets/Auto_Vehicle/5_data_edit.png" data-lightbox="roadtrip">
+	<img src="/assets/Auto_Vehicle/5_data_edit.png" title="test_lightbox">
+</a>
 　
 　
 ### Demonstration Video
