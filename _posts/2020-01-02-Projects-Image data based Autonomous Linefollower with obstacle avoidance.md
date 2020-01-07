@@ -49,6 +49,10 @@ Master PC's Operating System is <u>Linux Ubuntu 16.04 Xenial</u> and Turtlebot's
 </a>
 　
 　
+### About Imitation Learning
+sss
+　
+　
 ### Driving Process
 #### 　1. Learning for Driving
 <a href="/assets/Auto_Vehicle/3_learning.png" data-lightbox="roadtrip">
@@ -59,7 +63,7 @@ First of all, we needed image data for driving. So we tried collecting image dat
 ##### 　② At the same time, image data is also preprocessed(GrayScale and GaussianBlur) and stored in DB with action 　　command values.
 ##### 　③ Move the weight file from turtlebot to remote PC and proceed with learning process.
 ##### 　④ Move the learned weight file back to turtlebot.
-　
+
 #### 　2. Driving
 <a href="/assets/Auto_Vehicle/4_driving.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/4_driving.png" title="test_lightbox">
@@ -70,8 +74,17 @@ When the turtlenbot runs, it receives images and drives them along the label tha
 <a href="/assets/Auto_Vehicle/5_data_edit.png" data-lightbox="roadtrip">
 	<img src="/assets/Auto_Vehicle/5_data_edit.png" width="355" height="402" title="test_lightbox">
 </a>
-If the test runs are not normal, we manually adjust it using the keyboard to add new data. More learning means closer to normal driving.
+If the test runs are not normal, we manually adjust it using the keyboard to add new data. The more learning, the closer to normal driving.
 　
-#### Additional Functions
-
+　
+### Additional Functions
+#### 　1. Stop
+<a href="/assets/Auto_Vehicle/6_stop.png" data-lightbox="roadtrip">
+	<img src="/assets/Auto_Vehicle/6_stop.png" title="test_lightbox">
+</a>
+Turtlebot uses LIDAR sensors to first stop. To implement additional better stop function, ultrasonic sensors are also attached.
+#### 　2. Obstacle Avoidance
+<a href="/assets/Auto_Vehicle/7_avoid.png" data-lightbox="roadtrip">
+	<img src="/assets/Auto_Vehicle/7_avoid.png" title="test_lightbox">
+</a>
 ### Demonstration Video
