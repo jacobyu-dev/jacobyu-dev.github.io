@@ -49,10 +49,6 @@ Master PC's Operating System is <u>Linux Ubuntu 16.04 Xenial</u> and Turtlebot's
 </a>
 　
 　
-### About Imitation Learning
-sss
-　
-　
 ### Driving Process
 #### 　1. Learning for Driving
 <a href="/assets/Auto_Vehicle/3_learning.png" data-lightbox="roadtrip">
@@ -94,4 +90,9 @@ Turtlebot uses LIDAR sensors to first stop. To implement additional better stop 
 ##### 　⑤ Drive again following line
 　
 　
+### My Opinion
+Personally, the disadvantage is that avoiding function is not dynamic. The Avoiding function of our project is simply to rotate the body and drive along a pre-programmed path. It is too simple to be applied in everyday life. So other well-known path planning methods will help you better adapt to the situation.
+　
+　
 ### Demonstration Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyOFdGQ8PcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
